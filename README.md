@@ -1,5 +1,7 @@
 # News-Trendz
 
+[LOOK AT THE CODE AND EXECUTE ](https://colab.research.google.com/drive/1VqfNkeH7uCY1wiPU-Hsqy2r5jWHDHp7G?usp=sharing)
+
 ## 23 February 2025 | Monday | 23:00 PM
 
 | ![image](https://github.com/user-attachments/assets/862207b3-2eb4-40ff-a3c7-8b0830965a45) | ![image](https://github.com/user-attachments/assets/517ee437-da64-4fe2-984e-574a90069859) |
